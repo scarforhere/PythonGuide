@@ -1,0 +1,12 @@
+url:
+  https://www.google.de/
+types:
+  - 搜索
+  - 图片
+  - 账户
+python:
+  web: django
+  spider: bs5
+a: 1
+b: 2
+c: [a,b,c]

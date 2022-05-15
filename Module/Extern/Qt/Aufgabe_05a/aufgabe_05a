@@ -1,0 +1,9 @@
+[Parameter]
+m1 = 0.8
+m2 = 0.3
+l = 0.5
+
+[Simulation]
+dx = 0.01
+t_end = 10
+
