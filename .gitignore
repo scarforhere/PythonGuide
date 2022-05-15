@@ -1,4 +1,3 @@
-/Module/Extern/OpenCV/
 /Module/Extern/PyTorch/TensorBoard/events.out.tfevents.1647180383.DESKTOP-KELB6M5.61668.0
 /Module/Extern/PyTorch/TensorBoard/events.out.tfevents.1647181142.DESKTOP-KELB6M5.61908.0
 /Module/Extern/PyTorch/TensorBoard/events.out.tfevents.1647181161.DESKTOP-KELB6M5.62400.0
@@ -9,3 +8,37 @@
 /Module/Extern/PyTorch/MNIST_Linear/Data/
 /Module/Extern/PyTorch/MNIST_Convolution/TensorBoard/
 /Module/Extern/PyTorch/MNIST_Convolution/Data/
+/Module/Extern/OpenCV/StepIn/CH19/multi-object-tracking/videos/
+/Module/Extern/OpenCV/StepIn/CH19/multiobject-tracking-dlib/mobilenet_ssd/
+/Module/Extern/OpenCV/StepIn/CH19/multiobject-tracking-dlib/mobilenet_ssd/MobileNetSSD_deploy.caffemodel
+/Module/Extern/OpenCV/StepIn/CH19/multiobject-tracking-dlib/mobilenet_ssd/MobileNetSSD_deploy.prototxt
+/Module/Extern/OpenCV/StepIn/CH19/multiobject-tracking-dlib/dlib-19.7.0-cp36-cp36m-win_amd64.whl
+/Module/Extern/OpenCV/StepIn/CH19/multiobject-tracking-dlib/race.mp4
+/Module/Extern/OpenCV/StepIn/CH19/multiobject-tracking-dlib/race_output_fast.avi
+/Module/Extern/OpenCV/StepIn/CH19/multiobject-tracking-dlib/race_output_slow.avi
+/Module/Extern/OpenCV/StepIn/CH18/bvlc_googlenet.caffemodel
+/Module/Extern/OpenCV/StepIn/CH14/cnn_data/
+/Module/Extern/OpenCV/StepIn/CH14/test_images/
+/Module/Extern/OpenCV/StepIn/CH14/train_data/
+/Module/Extern/OpenCV/StepIn/CH14/car1.h5
+/Module/Extern/OpenCV/StepIn/CH14/parking_video.mp4
+/Module/Extern/OpenCV/StepIn/CH10/tesseract-ocr-w64-setup-v5.0.0.20211201.exe
+/Module/Extern/OpenCV/BasicProject/45 Build Object Detection Software/dnn_model/
+/Module/Extern/OpenCV/BasicProject/43 Eye Blink Counter/Video.mp4
+/Module/Extern/OpenCV/BasicProject/39 Parking Space Counter/carPark.mp4
+/Module/Extern/OpenCV/BasicProject/36 Basketball Shot Predictor/Videos/
+/Module/Extern/OpenCV/BasicProject/33 Kalman Filter Prediction/orange.mp4
+/Module/Extern/OpenCV/BasicProject/32 Object Tracking From Scratch/source_code/los_angeles.mp4
+/Module/Extern/OpenCV/BasicProject/32 Object Tracking From Scratch/source_code/dnn_model/
+/Module/Extern/OpenCV/BasicProject/28 Velcro Dart Board/Videos/
+/Module/Extern/OpenCV/BasicProject/21 Face Detection/face test.flv
+/Module/Extern/OpenCV/BasicProject/21 Face Detection/2face test.flv
+/Module/Extern/OpenCV/BasicProject/20 Pose Estimation/Test.flv
+/Module/Extern/OpenCV/BasicProject/16 Traffic Sign Classification/myData/
+/Module/Extern/OpenCV/BasicProject/16 Traffic Sign Classification/model_trained/
+/Module/Extern/OpenCV/BasicProject/15 Text Recognition using Neural Network (Digits)/myData/
+/Module/Extern/OpenCV/BasicProject/15 Text Recognition using Neural Network (Digits)/model_trained/
+/Module/Extern/OpenCV/BasicProject/08 Yolo V3/yolov3.cfg
+/Module/Extern/OpenCV/BasicProject/08 Yolo V3/yolov3.weights
+/Module/Extern/OpenCV/BasicProject/08 Yolo V3/yolov3-tiny.cfg
+/Module/Extern/OpenCV/BasicProject/08 Yolo V3/yolov3-tiny.weights
